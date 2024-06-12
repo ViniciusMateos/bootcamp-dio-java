@@ -1,4 +1,4 @@
-package edu.vinicius.anatomia_classes;
+package edu.vinicius.anatomiaclasses.anatomia_classes;
 
 //ANATOMIA DE CLASSES
 

@@ -1,4 +1,4 @@
-package edu.vinicius.variaveis_metodos;
+package edu.vinicius.anatomiaclasses.variaveis_metodos;
 
 public class VariaveisMetodos {
     /*DECLARANDO VARIÁVEIS E MÉTODOS

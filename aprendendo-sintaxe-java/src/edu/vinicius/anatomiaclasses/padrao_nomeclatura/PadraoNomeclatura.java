@@ -1,4 +1,4 @@
-package edu.vinicius.padrao_nomeclatura;
+package edu.vinicius.anatomiaclasses.padrao_nomeclatura;
 
 
 public class PadraoNomeclatura {
