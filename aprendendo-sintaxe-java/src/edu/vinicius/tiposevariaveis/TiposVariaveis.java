@@ -1,4 +1,4 @@
-
+package edu.vinicius.tiposevariaveis;
 
 public class TiposVariaveis{ //(CONVENÇÃO)Todos os arquivos terão o nome com a letra maiúscula e palavras complementares também que nem neste.
 
@@ -12,7 +12,7 @@ public class TiposVariaveis{ //(CONVENÇÃO)Todos os arquivos terão o nome com 
 
 
         //Tipos primitivos
-		byte idade = 123; // Armazena entre -128 a 127 
+		byte idade2 = 123; // Armazena entre -128 a 127 
 		short ano = 2021; // Armazena entre -32.768 a 32.767
 
         //Se começar com zero terá de trocar o tipo, pois Java não irá considera-lo. Teria que ser String
