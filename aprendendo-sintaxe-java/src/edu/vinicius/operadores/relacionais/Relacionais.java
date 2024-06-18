@@ -63,11 +63,24 @@ public class Relacionais {
 
     System.out.println("\nnome1 é igual a nome3?\nResposta: " + (nome1.equals(nome3)));
 
+    ///////////////////////
+        
+    numero1 = 130;
+    numero2 = 130;
+
+    System.out.println(numero1 == numero2); //true
     
+    Integer num1 = 130;
+    Integer num2 = 130;
 
-
-
-
+    System.out.println(numero1 == numero2); //false
+    
+    // A razão pela qual o resultado é false, é devido o Java tratar os valores
+    // Como objetos a partir de agora.
+    // Qual a solução ?
+    // Quando queremos comparar objetos, usamos o método equals
+    
+     System.out.println(num1.equals(num2)); 
 
     }
 }
