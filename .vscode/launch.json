@@ -1,0 +1,125 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ScannerExemplo",
+            "request": "launch",
+            "mainClass": "edu.vinicius.terminaleargumentos.scanner.ScannerExemplo",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.anatomiaclasses.anatomia_classes.Argumentos",
+            "args": [
+                "Vinicius",
+                "Mateos",
+                "19",
+                "1.70"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.vinicius.anatomiaclasses.anatomia_classes.MinhaClasse",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.vinicius.anatomiaclasses.identação.BoletimEstudantil",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantilIdentado",
+            "request": "launch",
+            "mainClass": "edu.vinicius.anatomiaclasses.identação.BoletimEstudantilIdentado",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "VariaveisMetodos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.anatomiaclasses.variaveis_metodos.VariaveisMetodos",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.vinicius.metodos.exercitando.Usuario",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.metodos.metodos.Metodos",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Aritmeticos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.operadores.aritmeticos.Aritmeticos",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Logicos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.operadores.logicos.Logicos",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Relacionais",
+            "request": "launch",
+            "mainClass": "edu.vinicius.operadores.relacionais.Relacionais",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "edu.vinicius.operadores.ternario.Ternario",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Unarios",
+            "request": "launch",
+            "mainClass": "edu.vinicius.operadores.unarios.Unarios",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.vinicius.terminaleargumentos.argumentos.Argumentos",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "Terminal",
+            "request": "launch",
+            "mainClass": "edu.vinicius.terminaleargumentos.terminal.Terminal",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.vinicius.tiposevariaveis.TiposVariaveis",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        }
+    ]
+}
