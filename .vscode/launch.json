@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.vinicius.poo.enums.SistemaIbge",
+            "projectName": "bootcamp-dio-java_69720e0d"
+        },
+        {
+            "type": "java",
             "name": "ScannerExemplo",
             "request": "launch",
             "mainClass": "edu.vinicius.terminaleargumentos.scanner.ScannerExemplo",
